@@ -1,0 +1,5 @@
+OOEN A TERMINAL AND TYPE GIT. Its good if you get 'git help-a' its good.
+
+git init = makes the folder start working with git
+
+git add . = tells git to track all files
