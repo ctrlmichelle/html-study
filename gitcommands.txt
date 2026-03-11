@@ -3,3 +3,11 @@ OOEN A TERMINAL AND TYPE GIT. Its good if you get 'git help-a' its good.
 git init = makes the folder start working with git
 
 git add . = tells git to track all files
+
+git commit-m " a message" - attach a message to changes done
+
+git config global user.mail "email used in git"
+
+git config global username "githubcom username"
+
+repeat git commit...
