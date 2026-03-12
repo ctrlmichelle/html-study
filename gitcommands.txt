@@ -11,3 +11,14 @@ git config global user.mail "email used in git"
 git config global username "githubcom username"
 
 repeat git commit...
+
+git remote add origin https://github.com/ctrlmichelle/html-study.git - connect folder in your comp to repository
+
+git push origin master - pushes code from your computer to git hub repository
+
+- a pop up appears
+- sign in in browser (takes you to the browser)
+- authorize ( green button) or sign in...
+- chech if TERMINAL is the same as trainer
+- go to github and refresh
+- send link and byee
