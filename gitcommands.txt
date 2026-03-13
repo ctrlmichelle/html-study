@@ -21,4 +21,5 @@ git push origin master - pushes code from your computer to git hub repository
 - authorize ( green button) or sign in...
 - chech if TERMINAL is the same as trainer
 - go to github and refresh
-- send link and byee
+- send link and byee 
+when  youve done it before: git add . and the git commit -m lastly git push origin master
